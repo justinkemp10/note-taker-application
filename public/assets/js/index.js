@@ -174,8 +174,13 @@ const renderNoteList = async (notes) => {
 const getAndRenderNotes = () => getNotes().then(renderNoteList);
 
 if (window.location.pathname === '/notes') {
+  // var deleteNote = document.getElementsByClassName('delete-note');
+  // var loadNote = document.getElementsByClassName('list-group-item');
+
   saveNoteBtn.addEventListener('click', handleNoteSave);
+  // loadNote.addEventListener('click', handleNoteView);
   newNoteBtn.addEventListener('click', handleNewNoteView);
+  // deleteNote.addEventListener('click', handleNoteDelete);
   noteTitle.addEventListener('keyup', handleRenderSaveBtn);
   noteText.addEventListener('keyup', handleRenderSaveBtn);
 }
