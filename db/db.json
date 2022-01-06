@@ -12,19 +12,35 @@
         "text": "test test test"
     },
     {
-        "title": "test 4",
-        "text": "notes are being added to database, but not refreshing page on save"
+        "title": "dfgsdfg",
+        "text": "dfsgsdfg"
     },
     {
-        "title": "test 5",
-        "text": "notes seem to be saving and working"
+        "title": "call Tom",
+        "text": "about tee time"
     },
     {
-        "title": "Call Tina",
-        "text": "about getting together next week"
+        "title": "call Jerry",
+        "text": "about the football game"
     },
     {
-        "title": "Call Terry",
-        "text": "ask him about his lawnmower"
+        "title": "call Mom",
+        "text": "about new years party"
+    },
+    {
+        "title": "Pickup Groceries",
+        "text": "by 6pm"
+    },
+    {
+        "title": "Mow Lawn",
+        "text": "rain in the forecast"
+    },
+    {
+        "title": "bag leaves",
+        "text": "lawn clippings picked up on friday"
+    },
+    {
+        "title": "Be Kind!",
+        "text": "its only free!"
     }
 ]

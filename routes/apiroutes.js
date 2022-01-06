@@ -28,7 +28,7 @@ module.exports = function (app) {
     // Log our request to the terminal
     console.info(`${req.method} request received to get notes`);
   });
-  // POST Route for a new UX/UI tip
+  // POST Route
   app.post("/api/notes", (req, res) => {
     console.info(`${req.method} request received to add a note`);
 
