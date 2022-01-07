@@ -44,3 +44,5 @@ The following images show the web application's appearance and functionality:
 ![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](./Assets/11-express-homework-demo-02.png)
 
 Here is a link to the application repository: [Note Taker Application](https://github.com/justinkemp10/note-taker-application)
+
+Here is a link to the deployed application on Heroku: [Heroku Note Taker](https://serene-fortress-12695.herokuapp.com/)
