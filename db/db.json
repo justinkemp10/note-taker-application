@@ -1,19 +1,7 @@
 [
     {
-        "title": "Test 2",
-        "text": "Test 2"
-    },
-    {
-        "title": "test",
-        "text": "test"
-    },
-    {
-        "title": "test3",
-        "text": "test test test"
-    },
-    {
-        "title": "dfgsdfg",
-        "text": "dfsgsdfg"
+        "title": "Test",
+        "text": "Test"
     },
     {
         "title": "call Tom",
@@ -24,23 +12,11 @@
         "text": "about the football game"
     },
     {
-        "title": "call Mom",
-        "text": "about new years party"
-    },
-    {
         "title": "Pickup Groceries",
         "text": "by 6pm"
     },
     {
         "title": "Mow Lawn",
         "text": "rain in the forecast"
-    },
-    {
-        "title": "bag leaves",
-        "text": "lawn clippings picked up on friday"
-    },
-    {
-        "title": "Be Kind!",
-        "text": "its only free!"
     }
 ]
